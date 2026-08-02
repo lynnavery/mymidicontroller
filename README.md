@@ -8,7 +8,11 @@ I want to create a midi controller using teensy, simple wiring (no resistors or 
 - design enclosure with CAD
 - get my friend to help me 3D print it
 - writing in C!
-- 
+
+## Mockup
+<img width="2000" height="1500" alt="Untitled(2)" src="https://github.com/user-attachments/assets/3057becd-6a3e-4bd2-a323-659246aea12c" />
+
+
 ## BOM
 | Qty | Part |
 |---|---|
@@ -20,8 +24,8 @@ I want to create a midi controller using teensy, simple wiring (no resistors or 
 | 1 | USB A to Micro-B cable |
 | 9 | Alpha 10K linear pot round shaft PCB 9mm |
 | 9 | Black Moog knob 16x21mm shaft 6.4mm |
-| 9 | Cherry MX/knockoff switch (any color) |
-| 9 | Keycaps |
+| 9+ | Cherry MX/knockoff switch (any color) |
+| 9+ | Keycaps |
 | 1 | 0.96in OLED I2C 4-pin white character display |
 | 1 | Panel-mount D-sub or aviation connector |
 | 6 | Series resistors 220ohm-1k for expander lines |
@@ -32,10 +36,13 @@ I want to create a midi controller using teensy, simple wiring (no resistors or 
 
 <img width="600" height="600" alt="Untitled(1)" src="https://github.com/user-attachments/assets/db65d853-6322-4694-85a2-67171a1c18d9" />
 
-## things i'd maybe like to add
+## Things to add
 - LEDs for the keys (I bought switches with room for LEDs)
+- - these keycaps erica sells are cool and could light up https://www.ericasynths.lv/black-key-set-381/
 - Expander I/O of some sort, for future arduino fuckery
-- an on/off switch
+- - Could be either like some funny bus i/o expander connector, or a bunch of cv 3/8th cable ins.
+- Maybe a usb mini to usb C mounted on the body
+- an on/off switch or internal power? If its being connected by usb though theres no real use
 
 ## Usage
 In theory I will use this for Max MSP or Ableton controlling. 
@@ -45,6 +52,4 @@ I picture the knobs being mapped and the keys controlling a sort of inner brain 
 - design enclosure
 - write code
 
-## Beyond initial scope
-Maybe I will in the future try to write some MIDI/serialosc over USB code and use it with my modular or norns. 
-I'd like to have the option to expand the I/O too if i wanted to hook up weird sensors and or expand to more keys for a sequencer design.
+
