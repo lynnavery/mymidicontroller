@@ -56,7 +56,7 @@ If I decide to do an expander for the extra teensy io
 ## References
 - https://www.pjrc.com/teensy/td_midi.html
 - Library for teensy midi controllers https://github.com/joshnishikawa/MIDIcontroller
-  
+- another midi library for teensy https://tomashg.com/?p=854
 ## Inspo
 - This macro keypad midi controller https://youtu.be/rUteUrWNM18?is=rv8fy3RFLP0ODB8-
 - this midi controller w screen https://youtu.be/xiZ_aWyoJGo?is=eepwr4AVEBQu5Y3n
