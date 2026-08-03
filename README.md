@@ -52,4 +52,6 @@ I picture the knobs being mapped and the keys controlling a sort of inner brain 
 - design enclosure
 - write code
 
-
+## References/inspo
+- This macro keypad midi controller https://youtu.be/rUteUrWNM18?is=rv8fy3RFLP0ODB8-
+- this midi controller w screen https://youtu.be/xiZ_aWyoJGo?is=eepwr4AVEBQu5Y3n
