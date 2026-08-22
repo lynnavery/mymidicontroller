@@ -1,0 +1,9 @@
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = https://github.com/blackketter/teensy.pretty
+[submodule "teensy_library"]
+	path = teensy_library
+	url = https://github.com/blackketter/teensy_library.git
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/sszczep/kicad-libraries
