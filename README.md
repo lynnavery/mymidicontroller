@@ -43,7 +43,8 @@ If I decide to do an expander for the extra teensy io
 
 ## Circuit diagram
 
-<img width="600" height="600" alt="Untitled(1)" src="https://github.com/user-attachments/assets/db65d853-6322-4694-85a2-67171a1c18d9" />
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/2f31aaa1-2ce4-4e5b-a853-cdcd6f37916f" />
+
 
 ## Things to add
 - LEDs for the keys (I bought switches with room for LEDs)
